@@ -24,7 +24,7 @@ These top insights summarize patterns in customer behavior, product performance,
    - Observation: Clothing contributes the largest volume of units; evaluate cross-sell opportunities and inventory levels to reduce stockouts.
  
 - 🧑‍🤝‍🧑 Top customers by sales:
-   Harisvansh, Madhav
+   Harivansh, Madhav
    - Observation: A small set of customers drives a meaningful share of revenue — consider loyalty programs or personalized outreach.
   
 - 💳 Payment modes used most:
